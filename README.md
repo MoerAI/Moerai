@@ -2,7 +2,7 @@
 
 I'm SungSoo Park, Microwave Signaller @ Republic of Korea Defense Communication Command.
 
-And Graduate Student at Sungkyunkwan University.
+And Graduate Student @ Sungkyunkwan University.
 
 Interested in Human Computer Interaction, Embedded Computer. 
 
