@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-I'm SungSoo Park, Interested in Human Computer Interaction, Embedded Computer.
+I'm SungSoo Park, Interested in AI(NLP), Human Computer Interaction, Embedded Computer.
 
-Microwave Signaller @ Republic of Korea Defense Communication Command.
+Data Engineer @ AION Co., Ltd.(2021~)
 
-And Graduate Student @ Sungkyunkwan University.
+Was Microwave Signaller @ Republic of Korea Defense Communication Command.(2020)
 
-I worked as project manager and I like this role.
+Was Researcher @ WaveOn Co., Ltd.(2019)
+
+Was CEO @ ABLE Company.(2018)
+
+And Dropped the Graduate School of Sungkyunkwan University.
+
+I worked as project manager & programmer, I like this roles.
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/sungsuu.park/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/bae.jiun)](https://www.instagram.com/kr_toto/?hl=ko)
