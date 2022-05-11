@@ -45,6 +45,7 @@ Start-up competition 1st 2017 (Seoul Business Agency)
 ---
 ### 📈 GitHub Activity Graph:
 ![SungSoo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Moerai&hide_border=true&theme=redical)
-![SungSoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moerai&show_icons=true&theme=radical&include_all_commits=true)
-![SungSoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moerai&theme=radical&layout=compact)
+Stats | Configuration
+--- | --- 
+![SungSoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moerai&show_icons=true&theme=radical&include_all_commits=true) |![SungSoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moerai&theme=radical&layout=compact)
 
