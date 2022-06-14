@@ -52,7 +52,7 @@ Property | Data
 
 (BS) Computer Software Engineering @ DongYangMirae Univ.
 
-(MS) Dropped the Graduate School of Sungkyunkwan University.
+Dropped the Graduate School of Sungkyunkwan University.
 
 ---
 ### 📈 GitHub Activity Graph:
