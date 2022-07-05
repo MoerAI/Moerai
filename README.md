@@ -14,7 +14,7 @@ I worked as project manager & programmer, I love this roles.
 
 Now I'm CEO @ TERRA IT Co., Ltd.(2022.01 ~ )
 
-Now I'm Data Engineer @ AION Co., Ltd.(2021.09 ~ )
+Now I'm Researcher Intern @ AION Co., Ltd.(2022.06 ~ )
 
 Was Microwave Signaller @ Republic of Korea Defense Communication Command.(2020 ~ 2021.09)
 
