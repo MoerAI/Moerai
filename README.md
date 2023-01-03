@@ -12,7 +12,7 @@ I worked as project manager & programmer, I love this roles.
 ---
 ### 💼 Career
 
-Now I'm Machine Learning Researcher @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ )
+Now I'm Graduate Student @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ )
 
 Was CEO @ <a href = "https://terra-it.co.kr/">TERRA IT Co., Ltd.</a>(2022.01 ~ 2023.01)
 
