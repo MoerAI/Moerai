@@ -12,9 +12,11 @@ I worked as project manager & programmer, I love this roles.
 ---
 ### 💼 Career
 
-Now I'm CEO @ TERRA IT Co., Ltd.(2022.01 ~ )
+Now I'm Machine Learning Researcher @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ )
 
-Now I'm Researcher Intern @ AION Co., Ltd.(2022.06 ~ )
+Was CEO @ <a href = "https://terra-it.co.kr/">TERRA IT Co., Ltd.</a>(2022.01 ~ 2023.01)
+
+Was Researcher Intern @ AION Co., Ltd.(2022.06 ~ 2022.12)
 
 Was Microwave Signaller @ Republic of Korea Defense Communication Command.(2020 ~ 2021.09)
 
