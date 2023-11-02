@@ -38,6 +38,11 @@ Graduation Competition 1st 2018 (DongYang Mirae Univ.)
 Start-up competition 1st 2017 (Seoul Business Agency)
 
 ---
+### 📄 Publishing
+
+S.S. Park, Y.-S. Choi, "Advancing Temporal Spike Encoding for Efficient Speech Recognition", IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, Nov. 2023
+
+---
 ### 💻 Tech Stack
 Property | Data
 --- | --- 
@@ -52,9 +57,11 @@ Property | Data
 ---
 ### 🎓 Education
 
-(BS) Computer Software Engineering @ DongYangMirae Univ.
+(MS Course) Electronic Communication Engineering @ KwangWoon Univ.
 
-Dropped the Graduate School of Sungkyunkwan University.
+(BA) Computer Software Engineering @ DongYangMirae Univ.
+
+(AS) Computer Software Engineering @ DongYangMirae Univ.
 
 ---
 ### 📈 GitHub Activity Graph:
