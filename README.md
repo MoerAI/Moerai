@@ -40,7 +40,7 @@ Start-up competition 1st 2017 (Seoul Business Agency)
 ---
 ### 📄 Publishing
 
-S.S. Park, Y.-S. Choi, "Advancing Temporal Spike Encoding for Efficient Speech Recognition", IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, Nov. 2023
+S.S. Park, Y.-S. Choi,<a href = "https://ieeexplore.ieee.org/document/10326357"> "Advancing Temporal Spike Encoding for Efficient Speech Recognition"</a> , IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, Nov. 2023
 
 ---
 ### 💻 Tech Stack
