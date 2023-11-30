@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-I'm SungSoo Park, Interested in AI(NLP), Human Computer Interaction, Embedded Computer.
+I'm SungSoo Park, Interested in AI, SNN, NLP, HCI, Embedded Computer.
 
 I worked as project manager & programmer, I love this roles.
 
