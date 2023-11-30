@@ -2,7 +2,7 @@
 
 I'm SungSoo Park, Interested in AI, SNN, NLP, HCI, Embedded Computer.
 
-I worked as project manager & programmer, I love this roles.
+I worked as Researcher, Programmer & Project Manager, I love these roles.
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/sungsuu.park/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/bae.jiun)](https://www.instagram.com/kr_toto/?hl=ko)
