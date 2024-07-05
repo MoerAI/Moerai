@@ -43,9 +43,9 @@ Start-up competition 1st 2017 (Seoul Business Agency)
 
 S. S. Park, Y.-S. Choi, <a href = "https://link.springer.com/article/10.1007/s13534-024-00404-0"> "Spiking neural networks for physiological and speech signals: a review"</a> in Biomedical Engineering Letters, vol 14, no. 4 Jun. 2024.
 
-S.S. Park, Y.-S. Choi, <a href = ""> "Temporal Feature Encoding-based Deep Spiking Neural Network"</a> , Summer Annual Conference of IEIE, Jun. 2024.
+S.S. Park, Y.-S. Choi, "Temporal Feature Encoding-based Deep Spiking Neural Network", Summer Annual Conference of IEIE, Jun. 2024.
 
-D.H. Kim, M.S. Lee, D.H. Lee, C.-M. Kim, S.S. Park, J.H. Son, Y.-S. Choi, et al., <a href = ""> "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance"</a> , Summer Annual Conference of KOSOMBE, May. 2024.
+D.H. Kim, M.S. Lee, D.H. Lee, C.-M. Kim, S.S. Park, J.H. Son, Y.-S. Choi, et al., "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance", Summer Annual Conference of KOSOMBE, May. 2024.
 
 S.S. Park, Y.-S. Choi,<a href = "https://ieeexplore.ieee.org/document/10326357"> "Advancing Temporal Spike Encoding for Efficient Speech Recognition"</a> , IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, Nov. 2023.
 
