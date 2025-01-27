@@ -41,13 +41,21 @@ Start-up competition 1st 2017 (Seoul Business Agency)
 ---
 ### 📄 Publishing
 
-- S. S. Park, Y.-S. Choi, <a href = "https://link.springer.com/article/10.1007/s13534-024-00404-0"> "Spiking neural networks for physiological and speech signals: a review"</a> in Biomedical Engineering Letters, vol 14, no. 4 Jun. 2024.
+- S.S. Park, Y.-S. Choi, <a href = ""> "Multiscale Spiking Neural Network with Dynamic Temporal Latency Encoding"</a> in Journal of Biomedical Engineering Research, Accept.
+
+- S.S. Park, Y.-S. Choi, <a href = ""> "Dynamic Temporal and Encoding Scheme for Efficient Spiking Neural Network"</a> Master's thesis, Dec. 2024.
+
+- S.S. Park, Y.-S. Choi, <a href = "https://link.springer.com/article/10.1007/s13534-024-00404-0"> "Spiking neural networks for physiological and speech signals: a review"</a> in Biomedical Engineering Letters, vol 14, no. 4 Jun. 2024.
 
 - S.S. Park, Y.-S. Choi, <a href ="https://conf.theieie.org/2024s/"> "Temporal Feature Encoding-based Deep Spiking Neural Network"</a>, Summer Annual Conference of IEIE, Jun. 2024.
 
 - D.H. Kim, M.S. Lee, D.H. Lee, C.-M. Kim, S.S. Park, J.H. Son, Y.-S. Choi, et al., <a href ="https://kosombe.or.kr/event/sub01.html"> "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance"</a>, Summer Annual Conference of KOSOMBE, May. 2024.
 
 - S.S. Park, Y.-S. Choi,<a href = "https://ieeexplore.ieee.org/document/10326357"> "Advancing Temporal Spike Encoding for Efficient Speech Recognition"</a> , IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, Nov. 2023.
+
+---
+### 📄 Patents
+- Y.-S. Choi, S.S. Park, "심층 스파이킹 신경망의 시간 특징 인코딩 방법(Temporal Feature Encoding Method of Deep Spiking NeuralNetwork)", 출원번호: 10-2025-0000439, 출원일자: 2025.01.02
 
 ---
 ### 💻 Tech Stack
@@ -71,6 +79,8 @@ Property | Data
 
 ---
 ### 📈 GitHub Activity Graph:
+
 Stats | Configuration
+--- | --- 
 ![SungSoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moerai&show_icons=true&theme=radical&include_all_commits=true) |![SungSoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moerai&theme=radical&layout=compact)
 
