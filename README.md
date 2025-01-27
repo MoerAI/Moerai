@@ -12,7 +12,7 @@ I worked as Researcher, Programmer & Project Manager, I love these roles.
 ---
 ### 💼 Career
 
-Now I'm Graduate Student @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ )
+Now I'm Graduate Student @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ 2025.02)
 
 Was CEO @ <a href = "https://terra-it.co.kr/">TERRA IT Co., Ltd.</a>(2022.01 ~ 2023.01)
 
@@ -71,8 +71,6 @@ Property | Data
 
 ---
 ### 📈 GitHub Activity Graph:
-![SungSoo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Moerai&hide_border=true&theme=redical)
 Stats | Configuration
---- | --- 
 ![SungSoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moerai&show_icons=true&theme=radical&include_all_commits=true) |![SungSoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moerai&theme=radical&layout=compact)
 
