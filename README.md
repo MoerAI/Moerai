@@ -41,7 +41,7 @@ Start-up competition 1st 2017 (Seoul Business Agency)
 ---
 ### 📄 Publishing
 
-- S.S. Park, Y.-S. Choi, <a href = ""> "Multiscale Spiking Neural Network with Dynamic Temporal Latency Encoding"</a> in Journal of Biomedical Engineering Research, Accept.
+- S.S. Park, Y.-S. Choi, <a href = ""> "Multiscale Spiking Neural Network with Dynamic Temporal Latency Encoding"</a> in Journal of Biomedical Engineering Research, Feb. 2025.
 
 - S.S. Park, Y.-S. Choi, <a href = ""> "Dynamic Temporal and Encoding Scheme for Efficient Spiking Neural Network"</a> Master's thesis, Dec. 2024.
 
