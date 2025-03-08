@@ -2,7 +2,7 @@
 
 I'm SungSoo Park, Interested in AI, SNN, NLP, HCI, Embedded Computer.
 
-I worked as Researcher, Programmer & Project Manager, I love these roles.
+I worked as a Researcher, Programmer & Project Manager, I love these roles.
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/sungsuu.park/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/bae.jiun)](https://www.instagram.com/kr_toto/?hl=ko)
@@ -12,7 +12,9 @@ I worked as Researcher, Programmer & Project Manager, I love these roles.
 ---
 ### 💼 Career
 
-Now I'm Graduate Student @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ 2025.02)
+Now I'm a Researcher @ <a href ="https://www.kisane.com/eng/main/main.html"> KISAN Electronics Co., Ltd.</a> New AI Product Lab (2025.02 ~ )
+
+Was Graduate Student @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ 2025.02)
 
 Was CEO @ <a href = "https://terra-it.co.kr/">TERRA IT Co., Ltd.</a>(2022.01 ~ 2023.01)
 
@@ -41,7 +43,7 @@ Start-up competition 1st 2017 (Seoul Business Agency)
 ---
 ### 📄 Publishing
 
-- S.S. Park, Y.-S. Choi, <a href = ""> "Multiscale Spiking Neural Network with Dynamic Temporal Latency Encoding"</a> in Journal of Biomedical Engineering Research, Feb. 2025.
+- S.S. Park, Y.-S. Choi, <a href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003180034"> "Multiscale Spiking Neural Network with Dynamic Temporal Latency Encoding"</a> in Journal of Biomedical Engineering Research, Feb. 2025.
 
 - S.S. Park, Y.-S. Choi, <a href = ""> "Dynamic Temporal and Encoding Scheme for Efficient Spiking Neural Network"</a> Master's thesis, Dec. 2024.
 
