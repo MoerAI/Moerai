@@ -12,7 +12,7 @@ I worked as a Researcher, Programmer & Project Manager, I love these roles.
 ---
 ### 💼 Career
 
-Now I'm a Researcher @ <a href ="https://www.kisane.com/eng/main/main.html"> KISAN Electronics Co., Ltd.</a> New AI Product Lab (2025.02 ~ )
+Now I'm a Research Engineer @ <a href ="https://www.kisane.com/eng/main/main.html"> KISAN Electronics Co., Ltd.</a> R&D Dept. (2025.02 ~ )
 
 Was Graduate Student @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ 2025.02)
 
