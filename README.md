@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-I'm SungSoo Park, Interested in AI, SNN, NLP, HCI, Embedded Computer.
+I'm SungSoo Park, Interested in AI, SNN, NLP, CV, ASR, HCI, Embedded Computer.
 
 I worked as a Researcher, Programmer & Project Manager, I love these roles.
 
@@ -73,7 +73,7 @@ Property | Data
 ---
 ### 🎓 Education
 
-(MS Course) Electronic Communication Engineering @ KwangWoon Univ.
+(MS) Electronic Communication Engineering @ KwangWoon Univ.
 
 (BA) Computer Software Engineering @ DongYangMirae Univ.
 
