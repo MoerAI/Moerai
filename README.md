@@ -16,7 +16,7 @@ Now I'm a Research Engineer @ <a href ="https://www.kisane.com/eng/main/main.htm
 
 Was Graduate Student @ Kwangwoon University <a href = "https://sites.google.com/view/neuroailab/home">Neuro AI Lab</a> (2023.01 ~ 2025.02)
 
-Was CEO @ <a href = "https://terra-it.co.kr/">TERRA IT Co., Ltd.</a>(2022.01 ~ 2023.01)
+Was CEO @ TERRA IT Co., Ltd.(2022.01 ~ 2023.01)
 
 Was Researcher Intern @ AION Co., Ltd.(2022.06 ~ 2022.12)
 
