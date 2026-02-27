@@ -82,4 +82,3 @@ Property | Data
 ---
 ### 📈 GitHub Activity Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moerai)
-![Metrics](./profile/metrics.svg)
