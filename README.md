@@ -82,7 +82,4 @@ Property | Data
 ---
 ### 📈 GitHub Activity Graph:
 
-Stats | Configuration
---- | --- 
-![SungSoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moerai&show_icons=true&theme=radical&include_all_commits=true) |![SungSoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moerai&theme=radical&layout=compact)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moerai)
