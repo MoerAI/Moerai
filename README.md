@@ -82,3 +82,6 @@ Property | Data
 ---
 ### 📈 GitHub Activity Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoerAI&theme=github)
+---
+### 🤖 agentic AI usage
+[![Tokscale Stats](https://tokscale.ai/api/embed/MoerAI/svg?sort=cost&compact=1&rank=percent&tokens=compact&cost=compact)](https://tokscale.ai/u/MoerAI)
